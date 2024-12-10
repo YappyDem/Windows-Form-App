@@ -1,0 +1,12 @@
+F:\ГЕНИАЛЬНАЯ РАЗРАБОТКА\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+F:\ГЕНИАЛЬНАЯ РАЗРАБОТКА\WindowsFormsApp3\obj\Debug\ShawarmaOrderApp.Form1.resources
+F:\ГЕНИАЛЬНАЯ РАЗРАБОТКА\WindowsFormsApp3\obj\Debug\ShawarmaOrderApp.Form2.resources
+F:\ГЕНИАЛЬНАЯ РАЗРАБОТКА\WindowsFormsApp3\obj\Debug\ShawarmaOrderApp.Form3.resources
+F:\ГЕНИАЛЬНАЯ РАЗРАБОТКА\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+F:\ГЕНИАЛЬНАЯ РАЗРАБОТКА\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+F:\ГЕНИАЛЬНАЯ РАЗРАБОТКА\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+F:\ГЕНИАЛЬНАЯ РАЗРАБОТКА\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+F:\ГЕНИАЛЬНАЯ РАЗРАБОТКА\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+F:\ГЕНИАЛЬНАЯ РАЗРАБОТКА\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+F:\ГЕНИАЛЬНАЯ РАЗРАБОТКА\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+F:\ГЕНИАЛЬНАЯ РАЗРАБОТКА\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
